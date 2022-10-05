@@ -3,9 +3,10 @@
 </h1>
 
 This project is a memorization game where the player is given a range
-of numbers that must be remembered in the correct order. after they get
+of numbers that must be remembered in the correct order. After they get
 hidden the player must click the rectangles the containing numbers in
-ascending order.
+ascending order. The game is time based so after playing through all
+the rounds, the best times will be displayed
 
 ## Gameplay demo
 <p align="center">
