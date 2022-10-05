@@ -28,6 +28,11 @@ class ValueBox:
 
 
     @property
+    def rect(self) -> pygame.Rect:
+        return self._rect
+
+
+    @property
     def invalid_value(self) -> bool:
         return self._invalid_value
 
@@ -35,11 +40,6 @@ class ValueBox:
     @invalid_value.setter
     def invalid_value(self, value: bool) -> None:
         self._invalid_value = value
-
-
-    @property
-    def rect(self) -> pygame.Rect:
-        return self._rect
 
 
     @property

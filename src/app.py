@@ -71,7 +71,6 @@ class App:
 
                 if self._menu.game_start:
                     values = self._menu.get_values()
-                    print(values)
                     
                     self._game = Game(
                         self._window,

@@ -54,13 +54,11 @@ class Result:
             self._scoreboard_surf,
             self._scoreboard_rect
         )
-
     
 
     def update(self) -> None:
         pressed_keys = self._window.get_pressed_keys()
 
         for key_event in pressed_keys:
-            print(key_event)
             if key_event.key == pygame.K_ESCAPE:
                 self._closed = True
