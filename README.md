@@ -7,7 +7,7 @@ of numbers that must be remembered in the correct order. after they get
 hidden the player must click the rectangles the containing numbers in
 ascending order.
 
-## Demo
+## Gameplay demo
 <p align="center">
     <img src="/media/demo.gif" height="400">
 </p>
