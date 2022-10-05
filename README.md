@@ -9,7 +9,7 @@ ascending order.
 
 ## Demo
 <p align="center">
-    <img src="/media/demo.gif" height="600">
+    <img src="/media/demo.gif" height="400">
 </p>
 
 
