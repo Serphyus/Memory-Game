@@ -9,9 +9,9 @@ ascending order. The game is time based so after playing through all
 the rounds, the best times will be displayed
 
 ## Gameplay demo
-<p align="center">
+<div align="center">
     <img src="/media/demo.gif" height="400">
-</p>
+</div>
 
 
 ## Setup
